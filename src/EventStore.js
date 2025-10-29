@@ -1,4 +1,3 @@
-
 /**
  * FINITE LOGIC - TrustLedger: Event Sourcing Fabric (In-memory Simulation)
  * Stores and manages an immutable log of state-changing events.
