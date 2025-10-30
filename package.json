@@ -1,0 +1,20 @@
+{
+  "name": "@finite-logic/trust-ledger",
+  "version": "1.0.0",
+  "description": "Focus: Decentralized Backend &amp; Trust (Event Sourcing)",
+  "main": "src/EventStore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akshayadeveloper/finite-logic-trust-ledger.git"
+  },
+  "keywords": ["finite-logic","EventStore","Decentralized","Trust","ledger","Backend"],
+  "author": "Akshaya Selvakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshayadeveloper/finite-logic-trust-ledger/issues"
+  },
+  "homepage": "https://github.com/Akshayadeveloper/finite-logic-trust-ledger#readme"
+}
